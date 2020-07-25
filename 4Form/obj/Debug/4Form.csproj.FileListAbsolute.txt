@@ -1,0 +1,10 @@
+D:\Wolf\4Form\4Form\bin\Debug\4Form.exe.config
+D:\Wolf\4Form\4Form\bin\Debug\4Form.exe
+D:\Wolf\4Form\4Form\bin\Debug\4Form.pdb
+D:\Wolf\4Form\4Form\obj\Debug\4Form.csprojAssemblyReference.cache
+D:\Wolf\4Form\4Form\obj\Debug\_4Form.Form1.resources
+D:\Wolf\4Form\4Form\obj\Debug\_4Form.Properties.Resources.resources
+D:\Wolf\4Form\4Form\obj\Debug\4Form.csproj.GenerateResource.cache
+D:\Wolf\4Form\4Form\obj\Debug\4Form.csproj.CoreCompileInputs.cache
+D:\Wolf\4Form\4Form\obj\Debug\4Form.exe
+D:\Wolf\4Form\4Form\obj\Debug\4Form.pdb
